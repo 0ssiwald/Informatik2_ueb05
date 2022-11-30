@@ -1,0 +1,138 @@
+<Daten>
+ <Team>
+  <Player>
+   <Name>Frederik Ronnow</Name>
+   <Birthday>4.8.1992</Birthday>
+   <TricotNr>1</TricotNr>
+  </Player>
+  <Player>
+   <Name>Lennart Grill</Name>
+   <Birthday>25.1.1999</Birthday>
+   <TricotNr>37</TricotNr>
+  </Player>
+  <Name>1. FC Union Berlin</Name>
+  <Player>
+   <Name>Niko Giesselmann</Name>
+   <Birthday>26.09.1991</Birthday>
+   <TricotNr>23</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Paul Jaeckel</Name>
+   <Birthday>22.7.1998</Birthday>
+   <TricotNr>3</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Danilho Doekhi</Name>
+   <Birthday>30.6.1998</Birthday>
+   <TricotNr>5</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Tymoteusz Puchacz</Name>
+   <Birthday>23.1.1999</Birthday>
+   <TricotNr>26</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Timo Baumgartl</Name>
+   <Birthday>4.03.1996</Birthday>
+   <TricotNr>25</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Rani Khedira</Name>
+   <Birthday>27.1.1994</Birthday>
+   <TricotNr>8</TricotNr>
+  </Player>
+  <Player>
+   <Name>Janik Haberer</Name>
+   <Birthday>2.04.1994</Birthday>
+   <TricotNr>19</TricotNr>
+   <Goals>3</Goals>
+  </Player>
+  <Player>
+   <Name>Genki Haraguchi</Name>
+   <Birthday>9.5.1991</Birthday>
+   <TricotNr>24</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Sven Michel</Name>
+   <Birthday>15.07.1990</Birthday>
+   <TricotNr>11</TricotNr>
+   <Goals>4</Goals>
+  </Player>
+  <Player>
+   <Name>Morten Thorsby</Name>
+   <Birthday>05.5.1996</Birthday>
+   <TricotNr>2</TricotNr>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Jamie Leweling</Name>
+   <Birthday>26.2.2001</Birthday>
+   <TricotNr>40</TricotNr>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Paul Seguin</Name>
+   <TricotNr>14</TricotNr>
+   <Birthday>29.03.1995</Birthday>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Name>Tim Skarke</Name>
+   <TricotNr>21</TricotNr>
+   <Birthday>7.9.1996</Birthday>
+   <Goals>0</Goals>
+  </Player>
+  <Player>
+   <Birthday>9.02.1995</Birthday>
+   <TricotNr>27</TricotNr>
+   <Goals>7</Goals>
+   <Name>Sheraldo Becker</Name>
+  </Player>
+  <Player>
+   <Name>Kevin Behrens</Name>
+   <TricotNr>17</TricotNr>
+   <Birthday>03.02.1991</Birthday>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Goals>4</Goals>
+   <Name>Jordan Siebatcheu</Name>
+   <TricotNr>45</TricotNr>
+   <Birthday>26.04.1996</Birthday>
+  </Player>
+  <Player>
+   <Name>Milos Pantovic</Name>
+   <TricotNr>32</TricotNr>
+   <Birthday>7.7.1996</Birthday>
+   <Goals>1</Goals>
+  </Player>
+  <Player>
+   <Name>Aljoscha Kemlein</Name>
+   <TricotNr>36</TricotNr>
+   <Birthday>02.08.2004</Birthday>
+   <Goals>2</Goals>
+  </Player>
+  <Player>
+   <Name>Max Mustermann</Name>
+   <TricotNr>99</TricotNr>
+   <Birthday>31.12.2020</Birthday>
+   <Goals>99</Goals>
+  </Player>
+ </Team>
+ <Team>
+<Player>
+<Name>Myziane Maolida</Name>
+<Birthday>14.02.1999</Birthday>
+<TricotNr>11</TricotNr>
+<Goals>1</Goals>
+</Player>
+<Trainer>Sandro Schwarz</Trainer>
+<Name>Hertha BSC</Name>
+</Team>
+</Daten>

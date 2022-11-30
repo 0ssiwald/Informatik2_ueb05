@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1667766103 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"datetime.h"
+
+1667494611 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\datastructure.h
+
+1669029849 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\datetime.h
+
+1669029087 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"datetime.h"
+	"menu.h"
+	"teams.h"
+	"tools.h"
+	"database.h"
+
+1667749618 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\menu.h
+
+1668715662 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\teams.h
+
+1667749496 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\tools.h
+
+1667749614 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\menu.c
+	<stdio.h>
+	"tools.h"
+	"menu.h"
+
+1669028534 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\teams.c
+	<stdio.h>
+	<stdlib.h>
+	"teams.h"
+	"datastructure.h"
+	"tools.h"
+	"datetime.h"
+
+1667764877 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\tools.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tools.h"
+
+1669029843 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"datetime.h"
+	"database.h"
+
+1669029823 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb04\database.h
+
